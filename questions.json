@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "question": "¿De qué color son sus ojos?",
+        "char": "ojos"
+    },
+    {
+        "id": 2,
+        "question": "¿De qué color es su pico?",
+        "char": "pico"
+    },
+    {
+        "id": 3,
+        "question": "¿De qué color son sus tarsos?",
+        "char": "tarsos"
+    },
+    {
+        "id": 4,
+        "question": "¿De qué color son sus patas?",
+        "char": "patas"
+    },
+    {
+        "id": 5,
+        "question": "¿De qué color es su corona?",
+        "char": "corona"
+    },
+    {
+        "id": 6,
+        "question": "¿De qué color es su garganta?",
+        "char": "garganta"
+    },
+    {
+        "id": 7,
+        "question": "¿De qué color es su vientre?",
+        "char": "vientre"
+    },
+    {
+        "id": 8,
+        "question": "¿De qué color son sus alas?",
+        "char": "alas"
+    },
+    {
+        "id": 9,
+        "question": "¿De qué color es su cola?",
+        "char": "cola"
+    },
+    {
+        "id": 10,
+        "question": "¿De qué color es su pecho?",
+        "char": "pecho"
+    },
+    {
+        "id": 11,
+        "question": "¿De qué color es su cuerpo?",
+        "char": "cuerpo"
+    },
+    {
+        "id": 12,
+        "question": "¿De qué color es su cabeza?",
+        "char": "cabeza"
+    },
+    {
+        "id": 13,
+        "question": "¿De qué color son sus plumas?",
+        "char": "plumas"
+    },
+    {
+        "id": 14,
+        "question": "¿De qué color es su frente?",
+        "char": "frente"
+    }
+]

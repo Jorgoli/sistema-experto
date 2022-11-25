@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1,
+        "name": "Rojo"
+    },
+    {
+        "id": 2,
+        "name": "Negro"
+    },
+    {
+        "id": 3,
+        "name": "Blanco"
+    },
+    {
+        "id": 4,
+        "name": "Amarillo"
+    },
+    {
+        "id": 5,
+        "name": "Verde"
+    },
+    {
+        "id": 6,
+        "name": "Gris"
+    },
+    {
+        "id": 7,
+        "name": "Azul"
+    },
+    {
+        "id": 8,
+        "name": "Café"
+    },
+    {
+        "id": 9,
+        "name": "Naranja"
+    },
+    {
+        "id": 10,
+        "name": "Morado"
+    },
+    {
+        "id": 11,
+        "name": "Rosa"
+    },
+    {
+        "id": 12,
+        "name": "Rojo blanquecino"
+    },
+    {
+        "id": 13,
+        "name": "Gris rosa"
+    },
+    {
+        "id": 14,
+        "name": "Gris café"
+    },
+    {
+        "id": 15,
+        "name": "Amarillo grisáceo"
+    },
+    {
+        "id": 16,
+        "name": "Amarillo café"
+    },
+    {
+        "id": 17,
+        "name": "Amarillo ocre"
+    },
+    {
+        "id": 18,
+        "name": "Amarillo canela"
+    },
+    {
+        "id": 19,
+        "name": "Azul lila"
+    },
+    {
+        "id": 20,
+        "name": "Azul gris"
+    },
+    {
+        "id": 21,
+        "name": "Blanco grisáceo"
+    },
+    {
+        "id": 22,
+        "name": "Café rojizo"
+    },
+    {
+        "id": 23,
+        "name": "Café canela"
+    },
+    {
+        "id": 24,
+        "name": "Café amarillento"
+    },
+    {
+        "id": 25,
+        "name": "Verde gris"
+    },
+    {
+        "id": 26,
+        "name": "No aplica"
+    }
+]
